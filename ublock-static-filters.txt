@@ -1,0 +1,4 @@
+www.spiegel.de###spPlusBanner
+www.heise.de##a-sticky-footer
+www.mydealz.de##.messages
+
